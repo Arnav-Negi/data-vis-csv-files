@@ -1,0 +1,14 @@
+attendee,meeting,type,time,duration,attendance
+Arnav,DSA,lecture,08:30,90,yes
+Arnav,IOT,lecture,10:00,90,yes
+Arnav,LA,lecture,11:30,90,yes
+Arnav,DSA,lab,02:00,180,no
+Prakul,DSA,lecture,08:30,90,yes
+Prakul,Biomolecules,lecture,10:00,90,no
+Prakul,LA,lecture,11:30,90,yes
+Prakul,Science Lab,02:00,180,no
+Akshit,DSA,lecture,08:30,90,yes
+Akshit,DSM,lecture,10:00,90,yes
+Akshit,LA,lecture,11:30,90,yes
+Akshit,NLP,tutorial,02:00,120,no
+Akshit,Yoga,Sports,
