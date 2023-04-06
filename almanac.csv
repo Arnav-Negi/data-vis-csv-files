@@ -1,0 +1,152 @@
+count,date,day,kind,event,batch
+,01-01-2023,Sunday,,,
+,02-01-2023,Monday,Academic,Reporting of Students,All Batches
+1,03-01-2023,Tuesday,Academic,First day of classes,All Batches
+1,04-01-2023,Wednesday,,,
+1,05-01-2023,Thursday,,,
+2,06-01-2023,Friday,,,
+2,07-01-2023,Saturday,,,
+,08-01-2023,Sunday,,,
+2,09-01-2023,Monday,,,
+3,10-01-2023,Tuesday,Academic,Late Registeration/Add&Drop,All Batches
+3,11-01-2023,Wednesday,,,
+3,12-01-2023,Thursday,,,
+4,13-01-2023,Friday,,,
+,14-01-2023,Saturday,Holiday,Bhogi,All Batches
+,15-01-2023,Sunday,Holiday,Pongal/Sankranti,All Batches
+4,16-01-2023,Monday,,,
+5,17-01-2023,Tuesday,,,
+4,18-01-2023,Wednesday,,,
+5,19-01-2023,Thursday,,,
+5,20-01-2023,Friday,,,
+,21-01-2023,Saturday,Academic,R&D Showcase,"UG3, UG4, UG5, MS, MTECH, PHD"
+,22-01-2023,Sunday,Academic,R&D Showcase,"UG3, UG4, UG5, MS, MTECH, PHD"
+6,23-01-2023,Monday,,,
+6,24-01-2023,Tuesday,,,
+6,25-01-2023,Wednesday,,,
+,26-01-2023,Thursday,Holiday,Republic Day,All Batches
+7,27-01-2023,Friday,,,All Batches
+7,28-01-2023,Saturday,Evaluations,BTP - 1 Report Submission,UG4
+,29-01-2023,Sunday,,,
+7,30-01-2023,Monday,,,
+8,31-01-2023,Tuesday,,,
+8,01-02-2023,Wednesday,,,
+,02-02-2023,Thursday,Evaluations,Quiz - 1,All Batches
+,03-02-2023,Friday,Evaluations,Quiz - 1,All Batches
+,04-02-2023,Saturday,Evaluations,Quiz - 1,All Batches
+,05-02-2023,Sunday,,,
+8,06-02-2023,Monday,,,
+9,07-02-2023,Tuesday,,,
+9,08-02-2023,Wednesday,,,
+9,09-02-2023,Thursday,,,
+10,10-02-2023,Friday,,,
+10,11-02-2023,Saturday,,,
+,12-02-2023,Sunday,,,
+10,13-02-2023,Monday,,,
+11,14-02-2023,Tuesday,,,
+11,15-02-2023,Wednesday,,,
+11,16-02-2023,Thursday,,,
+12,17-02-2023,Friday,,,
+,18-02-2023,Saturday,Holiday,Mahashivratri,All Batches
+,19-02-2023,Sunday,,,
+12,20-02-2023,Monday,,,
+13,21-02-2023,Tuesday,,,
+12,22-02-2023,Wednesday,,,
+13,23-02-2023,Thursday,,,
+14,24-02-2023,Friday,,,
+13,25-02-2023,Saturday,,,
+,26-02-2023,Sunday,,,
+,27-02-2023,Monday,Evaluations,Mid Exams,All Batches
+,28-02-2023,Tuesday,Evaluations,Mid Exams,All Batches
+,01-03-2023,Wednesday,Evaluations,Mid Exams,All Batches
+,02-03-2023,Thursday,Evaluations,Mid Exams,All Batches
+15,03-03-2023,Friday,,,
+14,04-03-2023,Saturday,,,
+,05-03-2023,Sunday,,,
+14,06-03-2023,Monday,Academic,Withdrawal of course,All Batches
+,07-03-2023,Tuesday,Holiday,Holi,All Batches
+15,08-03-2023,Wednesday,,,
+15,09-03-2023,Thursday,,,
+16,10-03-2023,Friday,,,
+16,11-03-2023,Saturday,,,
+,12-03-2023,Sunday,,,
+16,13-03-2023,Monday,,,
+17,14-03-2023,Tuesday,,,
+17,15-03-2023,Wednesday,,,
+,16-03-2023,Thursday,Holiday,Felicity,All Batches
+,17-03-2023,Friday,Holiday,Felicity,All Batches
+,18-03-2023,Saturday,Holiday,Felicity,All Batches
+,19-03-2023,Sunday,,,
+17,20-03-2023,Monday,,,
+18,21-03-2023,Tuesday,,,
+,22-03-2023,Wednesday,Holiday,Ugadi,All Batches
+18,23-03-2023,Thursday,,,
+19,24-03-2023,Friday,,,
+18,25-03-2023,Saturday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+,26-03-2023,Sunday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+19,27-03-2023,Monday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+29,28-03-2023,Tuesday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+19,29-03-2023,Wednesday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+29,30-03-2023,Thursday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+21,31-03-2023,Friday,Academic,White Friday,"UG3, UG4, UG5, MS, MTECH, PHD"
+20,01-04-2023,Saturday,,,
+,02-04-2023,Sunday,,,
+,03-04-2023,Monday,Evaluations,Quiz - 2,All Batches
+,04-04-2023,Tuesday,Evaluations,Quiz - 2,All Batches
+,05-04-2023,Wednesday,Evaluations,Quiz - 2,All Batches
+21,06-04-2023,Thursday,,,
+,07-04-2023,Friday,Holiday,Good Friday,All Batches
+21,08-04-2023,Saturday,Academic,MS/PhD Faculty Signup,"MS, PHD"
+,09-04-2023,Sunday,,,
+22,10-04-2023,Monday,,,
+22,11-04-2023,Tuesday,,,
+22,12-04-2023,Wednesday,,,
+23,13-04-2023,Thursday,,,
+23,14-04-2023,Friday,,,
+23,15-04-2023,Saturday,,,
+,16-04-2023,Sunday,,,
+24,17-04-2023,Monday,,,
+24,18-04-2023,Tuesday,,,
+24,19-04-2023,Wednesday,,,
+25,20-04-2023,Thursday,,,
+25,21-04-2023,Friday,,,
+,22-04-2023,Saturday,Holiday,Ramzan,All Batches
+,23-04-2023,Sunday,,,
+26,24-04-2023,Monday,,,
+26,25-04-2023,Tuesday,,,
+25,26-04-2023,Wednesday,Academic,Last day of classes,All Batches
+,27-04-2023,Thursday,Evaluations,Preparation for Exams,All Batches
+,28-04-2023,Friday,Evaluations,End Exams,All Batches
+,29-04-2023,Saturday,Evaluations,End Exams,All Batches
+,30-04-2023,Sunday,Evaluations,End Exams,All Batches
+,01-05-2023,Monday,Evaluations,End Exams,All Batches
+,02-05-2023,Tuesday,Evaluations,End Exams,All Batches
+,03-05-2023,Wednesday,Evaluations,End Exams,All Batches
+,04-05-2023,Thursday,Evaluations,End Exams,All Batches
+,05-05-2023,Friday,Evaluations,End Exams,All Batches
+,06-05-2023,Saturday,Evaluations,Lab Exams and BTP - 1 VIVA VOCE - 1,All Batches
+,07-05-2023,Sunday,Evaluations,Paper Checking,All Batches
+,08-05-2023,Monday,Evaluations,Paper Checking,All Batches
+,09-05-2023,Tuesday,Academic,Course Grades Due,All Batches
+,10-05-2023,Wednesday,,,
+,11-05-2023,Thursday,,,
+,12-05-2023,Friday,,,
+,13-05-2023,Saturday,,,
+,14-05-2023,Sunday,,,
+,15-05-2023,Monday,Academic,Projects Due,All Batches
+,16-05-2023,Tuesday,,,
+,17-05-2023,Wednesday,,,
+,18-05-2023,Thursday,,,
+,19-05-2023,Friday,Academic,Project Grade Due,All Batches
+,20-05-2023,Saturday,,,
+,21-05-2023,Sunday,,,
+,22-05-2023,Monday,,,
+,23-05-2023,Tuesday,Academic,Declaration of Results,All Batches
+,24-05-2023,Wednesday,,,
+,25-05-2023,Thursday,,,
+,26-05-2023,Friday,,,
+,27-05-2023,Saturday,,,
+,28-05-2023,Sunday,,,
+,29-05-2023,Monday,,,
+,30-05-2023,Tuesday,,,
+,31-05-2023,Wednesday,,,
