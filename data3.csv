@@ -1,0 +1,75 @@
+Day,Name,Code,Category,StartTime,EndTime,Type,Participants,isAttendance
+Monday,Design and Anaylsis of Software Systems,DASS,CS,8:30,10:00,Lecture,200,1
+Monday,Computational Social Science,CSS,HS,8:30,10:00,Lecture,30,0
+Monday,Communication Theory,CT,EC,8:30,10:00,Lecture,75,1
+Monday,Performance Modelling of Com. Systems,PMCS,CS,10:00,11:30,Lecture,60,1
+Monday,Data Visualization,DV,CS,10:00,11:30,Lecture,30,0
+Monday,Introduction to NLP,INLP,CS,10:00,11:30,Lecture,190,1
+Monday,Organic Chemistry,OC,SC,11:30,13:00,Lecture,80,1
+Monday,Communication and Controls in IoT,CCIoT,EC,11:30,13:00,Lecture,60,1
+Monday,Introduction to Coding Theory,ICT,MA,11:30,13:00,Lecture,30,1
+Monday,Computer Systems Organization,CSO,CS,14:00,15:30,Lecture,120,1
+Monday,Science II,SC2,SC,14:00,15:30,Lecture,220,1
+Monday,Introduction to Information Security,IIS,MA,15:30,17:00,Lecture,90,1
+Monday,Internet and Democracy,ID,HS,15:30,17:00,Lecture,30,0
+Monday,The Gutenberg Paranthesis,TGP,HS,15:30,17:00,Lecture,40,0
+Tuesday,Introduction to Algorithm Engineering,IAE,CS,8:30,10:00,Lecture,30,0
+Tuesday,Introduction to Quantum Info. and Computing,IQIC,MA,8:30,10:00,Lecture,60,1
+Tuesday,Physics of the Early Universe,PEU,SC,8:30,10:00,Lecture,20,1
+Tuesday,Digital Signal Anaylsis,DSA,EC,10:00,11:30,Lecture,60,1
+Tuesday,Intro to Bio Electronics,IBE,SC,10:00,11:30,Lecture,30,0
+Tuesday,Introduction to Processor Architecture,IPA,EC,11:30,13:00,Lecture,60,1
+Tuesday,Thermodynamics,THD,SC,11:30,13:00,Lecture,20,1
+Tuesday,Introduction to Human Sciences,IHS,HS,14:00,15:30,Lecture,220,1
+Tuesday,Value Education,VE,HS,15:30,17:00,Lecture,220,1
+Tuesday,Computer Vision,CV,CS,15:30,17:00,Lecture,110,0
+Wednesday,Machine Data Learning,MDL,CS,8:30,10:00,Lecture,180,1
+Wednesday,Computer Graphics,CG,CS,10:00,11:30,Lecture,60,1
+Wednesday,Machine Learning for Natural Sciences,MLNS,SC,10:00,11:30,Lecture,40,1
+Wednesday,Compilers,COM,CS,11:30,13:00,Lecture,60,1
+Wednesday,Introduction to Brain and Cognition,IBC,CS,11:30,13:00,Lecture,60,0
+Thursday,Design and Anaylsis of Software Systems,DASS,CS,8:30,10:00,Lecture,200,1
+Thursday,Computational Social Science,CSS,HS,8:30,10:00,Lecture,30,0
+Thursday,Communication Theory,CT,EC,8:30,10:00,Lecture,75,1
+Thursday,Performance Modelling of Com. Systems,PMCS,CS,10:00,11:30,Lecture,60,1
+Thursday,Data Visualization,DV,CS,10:00,11:30,Lecture,30,0
+Thursday,Introduction to NLP,INLP,CS,10:00,11:30,Lecture,190,1
+Thursday,Organic Chemistry,OC,SC,11:30,13:00,Lecture,80,1
+Thursday,Communication and Controls in IoT,CCIoT,EC,11:30,13:00,Lecture,60,1
+Thursday,Introduction to Coding Theory,ICT,MA,11:30,13:00,Lecture,30,1
+Thursday,Computer Systems Organization,CSO,CS,14:00,15:30,Lecture,120,1
+Thursday,Science II,SC2,SC,14:00,15:30,Lecture,220,1
+Thursday,Introduction to Information Security,IIS,MA,15:30,17:00,Lecture,90,1
+Thursday,Internet and Democracy,ID,HS,15:30,17:00,Lecture,30,0
+Thursday,The Gutenberg Paranthesis,TGP,HS,15:30,17:00,Lecture,40,0
+Friday,Introduction to Algorithm Engineering,IAE,CS,8:30,10:00,Lecture,30,0
+Friday,Introduction to Quantum Info. and Computing,IQIC,MA,8:30,10:00,Lecture,60,1
+Friday,Physics of the Early Universe,PEU,SC,8:30,10:00,Lecture,20,1
+Friday,Digital Signal Anaylsis,DSA,EC,10:00,11:30,Lecture,60,1
+Friday,Intro to Bio Electronics,IBE,SC,10:00,11:30,Lecture,30,0
+Friday,Introduction to Processor Architecture,IPA,EC,11:30,13:00,Lecture,60,1
+Friday,Thermodynamics,THD,SC,11:30,13:00,Lecture,20,1
+Friday,Introduction to Human Sciences,IHS,HS,14:00,15:30,Lecture,220,1
+Friday,Value Education,VE,HS,15:30,17:00,Lecture,220,1
+Friday,Computer Vision,CV,CS,15:30,17:00,Lecture,110,0
+Saturday,Machine Data Learning,MDL,CS,8:30,10:00,Lecture,180,1
+Saturday,Computer Graphics,CG,CS,10:00,11:30,Lecture,60,1
+Saturday,Machine Learning for Natural Sciences,MLNS,SC,10:00,11:30,Lecture,40,1
+Saturday,Compilers,COM,CS,11:30,13:00,Lecture,60,1
+Saturday,Introduction to Brain and Cognition,IBC,CS,11:30,13:00,Lecture,60,0
+Tuesday,Design and Anaylsis of Software Systems,DASS,CS,14:00,15:30,Tutorial,200,1
+Saturday,Computational Social Science,CSS,HS,14:00,15:30,Tutorial,30,0
+Friday,Communication Theory,CT,EC,14:00,15:30,Tutorial,75,1
+Saturday,Performance Modelling of Com. Systems,PMCS,CS,15:30,17:00,Tutorial,60,1
+Tuesday,Introduction to Quantum Info. and Computing,IQIC,CS,14:00,15:30,Tutorial,60,1
+Monday,Physics of the Early Universe,PEU,SC,14:00,15:30,Tutorial,20,1
+Friday,Digital Signal Anaylsis,DSA,EC,15:30,17:00,Tutorial,60,1
+Wednesday,Machine Data Learning,MDL,CS,14:00,15:30,Tutorial,180,1
+Wednesday,Computer Graphics,CG,CS,15:30,17:00,Tutorial,60,1
+Saturday,Machine Learning for Natural Sciences,MLNS,SC,15:30,17:00,Tutorial,40,1
+Monday,Organic Chemistry,OC,SC,14:00,17:00,Lab,20,1
+Tuesday,Introduction to Processor Architecture,IPA,EC,10:00,13:00,Lab,15,1
+Wednesday,Computer Graphics,CG,CS,14:00,17:00,Lab,20,1
+Friday,Science II,SC2,SC,14:00,17:00,Lab,30,1
+Thursday,Digital Signal Analysis,DSA,EC,14:00,17:00,Lab,15,0
+Saturday,Machine Learning for Natural Sciences,MLNS,SC,10:00,13:00,Lab,20,1
